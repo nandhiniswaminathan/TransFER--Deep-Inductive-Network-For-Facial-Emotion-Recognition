@@ -1,2 +1,2 @@
 # facial-emotion-recognition !!
-Lets do this
+ Comparison of facial reognition technology with resnet and cnn
